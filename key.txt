@@ -1,0 +1,6 @@
+CS 240:	Software engineering
+CS 261: CS II - basic data structures and algorithims
+CS 281:	Assembly and Computer Architecture
+CS 291:	Paradigms
+CS 361:	Algorithims and Data structres
+CS 445:	Principles of Database Systems
